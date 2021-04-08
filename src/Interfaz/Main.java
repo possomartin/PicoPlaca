@@ -32,7 +32,7 @@ public class Main
         
         System.out.println("Time Left: " + p.getTimeLeft());
         
-        System.out.println("Tiene Pico y Placa: " + p.checkPico() + " Se encuentra en horas Pico: " + p.checkPicoHours());
+        System.out.println("Yoy Have Pico & Placa: " + p.checkPico() + " Cannot mobilize in Pico Hour: " + p.checkPicoHours());
         
     }
     
