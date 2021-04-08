@@ -22,6 +22,7 @@ public class Main
     public static Time t3;
     public static Time t4;
     
+    /*
     public static void main(String[] args) {
         // TODO code application logic here
         
@@ -34,6 +35,6 @@ public class Main
         
         System.out.println("Tiene Pico y Placa: " + p.checkPico() + " Se encuentra en horas Pico: " + p.checkPicoHours());
         
-    }
+    }*/
     
 }
