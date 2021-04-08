@@ -5,14 +5,13 @@ Note: To develop this application you need to consider the past rules of the Pic
 
 Application:
 
+User interface for bettere UX.
+![image](https://user-images.githubusercontent.com/74694516/113996879-34aa9480-981d-11eb-85cd-d840ee0638a8.png)'
+
 User input to predict Pico & Placa
 ![image](https://user-images.githubusercontent.com/74694516/113997480-cca87e00-981d-11eb-9393-befb83ad1de8.png)
 
 ![image](https://user-images.githubusercontent.com/74694516/113997558-e2b63e80-981d-11eb-93f4-4a2955431aa0.png)
-
-
-User interface for bettere UX.
-![image](https://user-images.githubusercontent.com/74694516/113996879-34aa9480-981d-11eb-85cd-d840ee0638a8.png)'
 
 When an user inputs all the correct information it should display a screen where it tells him whether he can be on the road or not, also it lets him know how much time left does he have to wait until the next Pico Hour starts or when does it end.
 
